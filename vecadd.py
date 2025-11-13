@@ -2,6 +2,7 @@ import numpy as np
 
 #Adding this command to mark my change that i made on old code in branch master
 #now here i have resolvd the merge conflict
+# this is mohit changing garv repo
 
 def add_vectors(vec1 , vec2):
   """
